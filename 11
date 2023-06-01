@@ -1,7 +1,10 @@
 hello,
+<<<<<<< HEAD
 this is meghana
 learning about this git and github
 and writing this fourth line 
 and this fifth
 nd here is the six line
 seventh line to rebase it 
+=======
+>>>>>>> 0afb441... first commmite
